@@ -1,1 +1,1 @@
-# ProducerAndConsumer
+Here we tried to make a producer and consumer in which ,one thread is responsible for producing and second thread is responsible for the consuming and we tried to use blocking use ,which is thraed safe.
